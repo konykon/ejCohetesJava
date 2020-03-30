@@ -23,9 +23,7 @@ Creem dos coets amb els codis “32WESSDS” I “     ”. El primer coet tindr
 
 Mostrar a pantalla el codi dels coets, el número de propulsors que té i la potència màxima de cada propulsor. 
 
-        Output:
-32WESSDS: 10,30,80
-LDSFJA32: 30,40,50,50,30,10
+        Output: 32WESSDS: 10,30,80 LDSFJA32: 30,40,50,50,30,10
 
 
 FASE 3:
